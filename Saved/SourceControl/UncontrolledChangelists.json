@@ -50,7 +50,12 @@
 				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QU/0LT3UUQ9T59YW2BGYP8GMW.uasset",
 				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8U/3RQQ31BFAKW9UVCI725EQI.uasset",
 				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/RamsterZ_FreeAnims_Volume1/AnimationSequence/1HM/Montage_Sword_Swing.uasset",
-				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BT_Enemy_Base.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/Tasks/BTT_DefaultAttack.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_FocusTarget.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_ClearFocus.uasset"
 			]
 		}
 	]
