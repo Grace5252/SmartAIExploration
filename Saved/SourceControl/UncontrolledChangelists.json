@@ -55,7 +55,22 @@
 				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BT_Enemy_Base.uasset",
 				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/Tasks/BTT_DefaultAttack.uasset",
 				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_FocusTarget.uasset",
-				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_ClearFocus.uasset"
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_ClearFocus.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/Tasks/BTT_FocusTarget.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/Tasks/BTT_ClearFocus.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BP_PatrolRoute.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NW/4VOJ2PQO28UR143VOOIJIT.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BB_Enemy_Base.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_MoveAlongPatrolRoute.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BPI_EnemyAI.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/Enums/E_MovementSpeed.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTT_SetMovementSpeed.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/BTD_HasPatrolRoute.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Enemies/AI/Enums/E_AIState.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/RamsterZ_FreeAnims_Volume1/AnimationSequence/H2H/Montage_Punch.uasset",
+				"C:/Users/grace/Documents/Unreal Projects/SmartAIExploration/Content/Infinity_Rogues/Animations/InPlace/Montage_Rapid_Jab.uasset"
 			]
 		}
 	]
